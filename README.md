@@ -1,4 +1,4 @@
-# courses-for-gis-devlopers
+# courses-for-gis-developers
 A list of the best online courses and tutorials to learn geospatial development.
 
 <h2>Front-end Geospatial Development</h2>
