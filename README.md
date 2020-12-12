@@ -44,6 +44,18 @@ A list of the best online courses and tutorials to learn geospatial development.
 
 <h3>Unfolding</h3>
 
+<br>
 
+<h2>Spatial Databases</h2>
+
+<h3>PostgreSQL/PostGIS</h3>
+
+<h3>Esri Geodatabase</h3>
+
+<h3>Oracle Spatial</h3>
+
+<h3>Microsoft SQL Server</h3>
+
+<h3>MySQL</h3>
 
 
