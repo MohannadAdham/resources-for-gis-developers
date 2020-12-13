@@ -6,8 +6,14 @@ A list of the best online courses and tutorials to learn geospatial development.
 <h2>OpenLayers</h2>
 <h4>Courses</h4>
 <h4>Tutorials</h4>
-<a href="https://openlayers.org/workshop/en/">OpenLayers Workshop</a>
+<a href="https://openlayers.org/workshop/en/">OpenLayers Workshop - openlayers.org</a>
+<br>
+<a href="https://openlayers.org/en/latest/doc/tutorials/"> OpenLayers Tutorials - openlayers.org</a>
+<br>
 <h4>Books</h4>
+<a href="https://www.packtpub.com/product/openlayers-3-beginner-s-guide/9781782162360">OpenLayers 3: Beginner's Guide - Thomas Gratier , Paul Spencer , Erik Hazzard</a>
+<br>
+<a href="http://openlayersbook.github.io/index.html">Openlayers 3: Beginner's Guide (Code Examples) - Thomas Gratier , Paul Spencer , Erik Hazzard</a>
 <h4>Cheat Sheets</h4>
 
 <h2>Leaflet</h2>
@@ -24,6 +30,8 @@ A list of the best online courses and tutorials to learn geospatial development.
 
 <h2>ArcGIS API for JavaScript</h2>
 <h4>Courses</h4>
+<a href="https://www.e-education.psu.edu/geog863/node/1776">Web Application Development for Geospatial Professionals - PennState University</a>
+<br>
 <h4>Tutorials</h4>
 <h4>Books</h4>
 <h4>Cheat Sheets</h4>
@@ -46,12 +54,18 @@ A list of the best online courses and tutorials to learn geospatial development.
 
 <h2>PyQGIS</h2>
 <h4>Courses</h4>
+<a href="https://www.e-education.psu.edu/geog489/node/1776">GIS Advanced Python Programming for GIS - PennState University</a>
+<br>
 <h4>Tutorials</h4>
 <h4>Books</h4>
 <h4>Cheat Sheets</h4>
 
 <h2>ArcPy</h2>
 <h4>Courses</h4>
+<a href="https://www.e-education.psu.edu/geog485/syllabus">GIS Programming and Software Development - PennState University</a>
+<br>
+<a href="https://www.e-education.psu.edu/geog489/node/1776">GIS Advanced Python Programming for GIS - PennState University</a>
+<br>
 <h4>Tutorials</h4>
 <h4>Books</h4>
 <h4>Cheat Sheets</h4>
