@@ -1,61 +1,67 @@
 # courses-for-gis-developers
 A list of the best online courses and tutorials to learn geospatial development.
 
-<h2>Front-end Geospatial Development</h2>
+<h1>Front-end Geospatial Development</h1>
 
-<h3>OpenLayers</h3>
+<h2>OpenLayers</h2>
+<h4>Courses</h4>
+<h4>Tutorials</h4>
 <a href="https://openlayers.org/workshop/en/">OpenLayers Workshop</a>
+<h4>Books</h4>
+<h4>Cheat Sheets</h4>
 
-<h3>Leaflet</h3>
 
-<h3>MapBox</h3>
 
-<h3>ArcGIS API for JavaScript</h3>
+<h2>Leaflet</h2>
 
-<h3>Web AppBuilder for ArcGIS</h3>
+<h2>MapBox</h2>
 
-<h3>Dojo Toolkit</h3>
+<h2>ArcGIS API for JavaScript</h2>
 
-<br>
+<h2>Web AppBuilder for ArcGIS</h2>
 
-<h2>Back-end Geospatial Development</h2>
-
-<h3>PyQGIS</h3>
-
-<h3>ArcPy</h3>
-
-<h3>ArcGIS API for Python</h3>
-
-<h3>GDAL/OGR</h3>
-
-<h3>GEOS</h3>
-
-<h3>Shapely</h3>
-
-<h3>Fiona</h3>
-
-<h3>pyproj</h3>
-
-<h3>Rasterio</h3>
-
-<h3>GeoTools</h3>
-
-<h3>GeoPandas</h3>
-
-<h3>Unfolding</h3>
+<h2>Dojo Toolkit</h2>
 
 <br>
 
-<h2>Spatial Databases</h2>
+<h1>Back-end Geospatial Development</h1>
 
-<h3>PostgreSQL/PostGIS</h3>
+<h2>PyQGIS</h2>
 
-<h3>Esri Geodatabase</h3>
+<h2>ArcPy</h2>
 
-<h3>Oracle Spatial</h3>
+<h2>ArcGIS API for Python</h2>
 
-<h3>Microsoft SQL Server</h3>
+<h2>GDAL/OGR</h2>
 
-<h3>MySQL</h3>
+<h2>GEOS</h2>
+
+<h2>Shapely</h2>
+
+<h2>Fiona</h2>
+
+<h2>pyproj</h2>
+
+<h2>Rasterio</h2>
+
+<h2>GeoTools</h2>
+
+<h2>GeoPandas</h2>
+
+<h2>Unfolding</h2>
+
+<br>
+
+<h1>Spatial Databases</h1>
+
+<h2>PostgreSQL/PostGIS</h2>
+
+<h2>Esri Geodatabase</h2>
+
+<h2>Oracle Spatial</h2>
+
+<h2>Microsoft SQL Server</h2>
+
+<h2>MySQL</h2>
 
 
