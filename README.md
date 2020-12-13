@@ -5,6 +5,8 @@ A list of the best online courses and tutorials to learn geospatial development.
 
 <h2>OpenLayers</h2>
 <h4>Courses</h4>
+<a href="https://www.e-education.psu.edu/geog585/node/783">Open Web Mapping - Lesson 6 (Archived Version) - PennState University</a>
+<br>
 <h4>Tutorials</h4>
 <a href="https://openlayers.org/workshop/en/">OpenLayers Workshop - openlayers.org</a>
 <br>
@@ -14,10 +16,13 @@ A list of the best online courses and tutorials to learn geospatial development.
 <a href="https://www.packtpub.com/product/openlayers-3-beginner-s-guide/9781782162360">OpenLayers 3: Beginner's Guide - Thomas Gratier , Paul Spencer , Erik Hazzard</a>
 <br>
 <a href="http://openlayersbook.github.io/index.html">Openlayers 3: Beginner's Guide (Code Examples) - Thomas Gratier , Paul Spencer , Erik Hazzard</a>
+<br>
 <h4>Cheat Sheets</h4>
 
 <h2>Leaflet</h2>
 <h4>Courses</h4>
+<a href="https://www.e-education.psu.edu/geog585/node/783">Open Web Mapping - Lesson 6 - PennState University</a>
+<br>
 <h4>Tutorials</h4>
 <h4>Books</h4>
 <h4>Cheat Sheets</h4>
@@ -132,11 +137,35 @@ A list of the best online courses and tutorials to learn geospatial development.
 
 <br>
 
-<h1>Spatial Databases</h1>
+<h1>GIS Servers</h1>
+
+<h2>GeoServer</h2>
 <h4>Courses</h4>
 <h4>Tutorials</h4>
 <h4>Books</h4>
 <h4>Cheat Sheets</h4>
+
+<h2>Map Server</h2>
+<h4>Courses</h4>
+<h4>Tutorials</h4>
+<h4>Books</h4>
+<h4>Cheat Sheets</h4>
+
+<h2>QGIS Server</h2>
+<h4>Courses</h4>
+<h4>Tutorials</h4>
+<h4>Books</h4>
+<h4>Cheat Sheets</h4>
+
+<h2>ArcGIS Server</h2>
+<h4>Courses</h4>
+<h4>Tutorials</h4>
+<h4>Books</h4>
+<h4>Cheat Sheets</h4>
+
+<br>
+
+<h1>Spatial Databases</h1>
 
 <h2>PostgreSQL/PostGIS</h2>
 <h4>Courses</h4>
@@ -168,4 +197,5 @@ A list of the best online courses and tutorials to learn geospatial development.
 <h4>Books</h4>
 <h4>Cheat Sheets</h4>
 
+<br>
 
