@@ -63,7 +63,10 @@ A list of the best online courses and tutorials to learn geospatial development.
 <br>
 <h4>Tutorials</h4>
 <h4>Books</h4>
+<a href="https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/index.html">PyQGIS Developer Cookbook</a>
+<br>
 <h4>Cheat Sheets</h4>
+<a href="https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/cheat_sheet.html">Cheat sheet for PyQGIS (official)</a>
 
 <h2>ArcPy</h2>
 <h4>Courses</h4>
@@ -154,6 +157,8 @@ A list of the best online courses and tutorials to learn geospatial development.
 <h2>QGIS Server</h2>
 <h4>Courses</h4>
 <h4>Tutorials</h4>
+<a href="https://docs.qgis.org/testing/en/docs/server_manual/index.html#qgis-server-manual">QGIS Server Guide/Manual"</a>
+<br>
 <h4>Books</h4>
 <h4>Cheat Sheets</h4>
 
