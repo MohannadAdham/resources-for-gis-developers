@@ -5,8 +5,13 @@ A list of the best online courses and tutorials to learn geospatial development.
 
 <h2>OpenLayers</h2>
 <h4>Courses</h4>
-<a href="https://www.e-education.psu.edu/geog585/node/783">Open Web Mapping - Lesson 6 (Archived Version) - PennState University</a>
+<a href="https://www.e-education.psu.edu/geog585/node/783">GEOG 585 - Open Web Mapping - Lesson 6 (Archived Version) - Penn State University</a>
 <br>
+<a href="https://gis.e-education.psu.edu/node/410">Learning Open Web Mapping from Start to Finish - Penn State University</a>
+<br>
+<a href="https://www.udemy.com/course/openlayers-6-from-scratch-with-a-project/">OpenLayers 6 From Scratch With A Project - Udemy</a>
+<br>
+
 <h4>Tutorials</h4>
 <a href="https://openlayers.org/workshop/en/">OpenLayers Workshop - openlayers.org</a>
 <br>
