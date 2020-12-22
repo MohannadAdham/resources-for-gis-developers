@@ -17,7 +17,13 @@ A list of the best online courses and tutorials to learn geospatial development.
 <br>
 <a href="http://openlayersbook.github.io/index.html">Openlayers 3: Beginner's Guide (Code Examples) - Thomas Gratier , Paul Spencer , Erik Hazzard</a>
 <br>
-<h4>Cheat Sheets</h4>
+<a href="https://www.packtpub.com/product/openlayers-3-x-cookbook-second-edition/9781785287756">OpenLayers 3.x Cookbook - Second Edition - Peter J. Langley , Antonio Santiago Perez</a>
+<br>
+<a href="https://www.packtpub.com/product/mastering-openlayers-3/9781785281006">Mastering OpenLayers 3 - Gábor Farkas</a>
+<br>
+<h4>Documentation</h4>
+<a href="openlayers.org/en/latest/apidoc/">OpenLayers API Documentation</a>
+<br>
 
 <h2>Leaflet</h2>
 <h4>Courses</h4>
