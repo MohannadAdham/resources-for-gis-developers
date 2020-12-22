@@ -30,7 +30,7 @@ A list of the best online courses and tutorials to learn geospatial development.
 <a href="openlayers.org/en/latest/apidoc/">OpenLayers API Documentation</a>
 <br>
 <br>
-<h2><img src="images/leaflet.png" height="30px"></h2>
+<h2><img src="images/leaflet.png" height="34px"></h2>
 <h4>Courses</h4>
 <a href="https://www.e-education.psu.edu/geog585/node/783">Open Web Mapping - Lesson 6 - PennState University</a>
 <br>
