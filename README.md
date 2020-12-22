@@ -34,8 +34,24 @@ A list of the best online courses and tutorials to learn geospatial development.
 <h4>Courses</h4>
 <a href="https://www.e-education.psu.edu/geog585/node/783">Open Web Mapping - Lesson 6 - PennState University</a>
 <br>
+<a href="https://www.udemy.com/course/display-and-analyze-gis-data-on-the-web/">Display and analyze GIS data on the web with Leaflet - Udemy</a>
+<br>
+<a href="https://www.udemy.com/course/mapping-in-leafletjs/">Mapping in Leaflet JS - Udemy</a>
+<br>
+
 <h4>Tutorials</h4>
+<a href="https://leafletjs.com/examples/quick-start/">Leaflet Quick Start Guide (official)</a>
+<br>
+<a href="https://leafletjs.com/examples.html">Leaflet Examples (official)</a>
+<br>
+<a href="https://www.tutorialspoint.com/leafletjs/leafletjs_quick_guide.htm">LeafletJS - Quick Guide - Tutorialspoint</a>
+<br>
+
 <h4>Books</h4>
+<a href="https://www.packtpub.com/product/leaflet-js-essentials/9781783554812">Leaflet.js Essentials - Paul Crickard</a>
+<br>
+<a href="https://www.packtpub.com/application-development/instant-interactive-map-designs-leaflet-javascript-library-how">Instant Interactive Map designs with Leaflet JavaScript Library How-to - Jonathan Derrough</a>
+<br>
 <h4>Cheat Sheets</h4>
 <br>
 
