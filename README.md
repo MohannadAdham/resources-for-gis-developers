@@ -61,7 +61,7 @@ A list of the best online courses and tutorials to learn geospatial development.
 <h4>Books</h4>
 <h4>Cheat Sheets</h4>
 <br>
-<h2><image src="images/ESRI.png" height="32px"> ArcGIS API for JavaScript</h2>
+<h2><image src="images/esri.jpg" height="32px"> ArcGIS API for JavaScript</h2>
 <h4>Courses</h4>
 <a href="https://www.e-education.psu.edu/geog863/node/1776">Web Application Development for Geospatial Professionals - PennState University</a>
 <br>
@@ -70,7 +70,7 @@ A list of the best online courses and tutorials to learn geospatial development.
 <h4>Cheat Sheets</h4>
 <br>
 
-<h2><image src="images/ESRI.png" height="32px"> Web AppBuilder for ArcGIS</h2>
+<h2><image src="images/esri.jpg" height="32px"> Web AppBuilder for ArcGIS</h2>
 <h4>Courses</h4>
 <h4>Tutorials</h4>
 <h4>Books</h4>
