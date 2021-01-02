@@ -80,6 +80,7 @@ A list of the best online courses and tutorials to learn geospatial development.
 <h2><image src="images/dojo.png" height="32px"></h2>
 <h4>Courses</h4>
 <h4>Tutorials</h4>
+  <a href="https://dojotoolkit.org/documentation/#tutorials">Dojo Toolkit Tutorials</a>
 <h4>Books</h4>
 <h4>Cheat Sheets</h4>
 
